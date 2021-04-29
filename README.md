@@ -1,2 +1,0 @@
-# multicreditos
-Web Multicreditos
